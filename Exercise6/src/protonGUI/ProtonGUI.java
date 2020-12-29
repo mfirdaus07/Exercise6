@@ -75,7 +75,7 @@ public class ProtonGUI {
 				test= ("Model: Proton Iriz | RM 36,700.00"); //set the string
 				box_answer.setText(test); //display the string inside text field name box_answer
 				
-				txtrDisplay.setText("Proton Persona:" //set the string
+				txtrDisplay.setText("Proton Iriz:" //set the string
 						+ "\n\nBasic Salary: RM 2,500" //display the string inside text area name txtrDisplay
 						+ "\n\nMonthly installment: RM 500"
 						+ "\n\nSPECIFICATIONS"
